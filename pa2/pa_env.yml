@@ -1,0 +1,10 @@
+name: cs7150
+channels:
+  - defaults
+dependencies:
+  - python>=3.10,<3.13
+  - numpy
+  - matplotlib
+  - tqdm
+  - jupyter
+  - pip
